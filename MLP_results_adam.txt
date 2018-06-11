@@ -1,0 +1,959 @@
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+0 Training took 110.34659457206726
+Optimal predictions: 0.20214285714285715 (283/1400)
+Valid predictions: 0.23714285714285716 (332/1400)
+Validation
+Optimal predictions: 0.17142857142857143 (48/280)
+Valid predictions: 0.23214285714285715 (65/280)
+Test
+Optimal predictions: 0.18571428571428572 (52/280)
+Valid predictions: 0.21785714285714286 (61/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 80us/step
+[0.1018102275473731, 0.09285714296357972, 0.8566176397459847, 0.1018102275473731, 0.359163938675608]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl2
+1 Training took 120.22294592857361
+Optimal predictions: 0.21285714285714286 (298/1400)
+Valid predictions: 0.25357142857142856 (355/1400)
+Validation
+Optimal predictions: 0.16785714285714284 (47/280)
+Valid predictions: 0.225 (63/280)
+Test
+Optimal predictions: 0.19642857142857142 (55/280)
+Valid predictions: 0.23214285714285715 (65/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 86us/step
+[0.10215572363563946, 0.08928571428571429, 0.8572478890419006, 0.10215572363563946, 0.3589766698224204]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl3
+2 Training took 132.90989184379578
+Optimal predictions: 0.19285714285714287 (270/1400)
+Valid predictions: 0.23357142857142857 (327/1400)
+Validation
+Optimal predictions: 0.15714285714285714 (44/280)
+Valid predictions: 0.2 (56/280)
+Test
+Optimal predictions: 0.175 (49/280)
+Valid predictions: 0.21071428571428572 (59/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 94us/step
+[0.10293578260711261, 0.07142857142857142, 0.858718478679657, 0.10293578260711261, 0.35264765407357895]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl1
+3 Training took 108.71245074272156
+Optimal predictions: 0.19642857142857142 (275/1400)
+Valid predictions: 0.23214285714285715 (325/1400)
+Validation
+Optimal predictions: 0.15 (42/280)
+Valid predictions: 0.20714285714285716 (58/280)
+Test
+Optimal predictions: 0.18928571428571428 (53/280)
+Valid predictions: 0.22857142857142856 (64/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 90us/step
+[0.10185796778116907, 0.10357142857142858, 0.856932760987963, 0.10185796778116907, 0.3551679070506777]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl2
+4 Training took 121.85628318786621
+Optimal predictions: 0.21071428571428572 (295/1400)
+Valid predictions: 0.2542857142857143 (356/1400)
+Validation
+Optimal predictions: 0.16428571428571428 (46/280)
+Valid predictions: 0.21428571428571427 (60/280)
+Test
+Optimal predictions: 0.18928571428571428 (53/280)
+Valid predictions: 0.22857142857142856 (64/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 83us/step
+[0.10317697642104966, 0.10714285714285714, 0.8549369743892125, 0.10317697642104966, 0.3637209632566997]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl3
+5 Training took 134.30811142921448
+Optimal predictions: 0.23357142857142857 (327/1400)
+Valid predictions: 0.2885714285714286 (404/1400)
+Validation
+Optimal predictions: 0.22142857142857142 (62/280)
+Valid predictions: 0.3 (84/280)
+Test
+Optimal predictions: 0.24642857142857144 (69/280)
+Valid predictions: 0.29642857142857143 (83/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 93us/step
+[0.10378014711397035, 0.08571428582072257, 0.8590336203575134, 0.10378014711397035, 0.40257810311658043]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl1
+6 Training took 109.89773607254028
+Optimal predictions: 0.215 (301/1400)
+Valid predictions: 0.2592857142857143 (363/1400)
+Validation
+Optimal predictions: 0.16785714285714284 (47/280)
+Valid predictions: 0.22857142857142856 (64/280)
+Test
+Optimal predictions: 0.2 (56/280)
+Valid predictions: 0.23214285714285715 (65/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 74us/step
+[0.10200256311467716, 0.10357142857142858, 0.8576680609158107, 0.10200256311467716, 0.36096129630293167]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl2
+7 Training took 123.08045268058777
+Optimal predictions: 0.1992857142857143 (279/1400)
+Valid predictions: 0.23714285714285716 (332/1400)
+Validation
+Optimal predictions: 0.15714285714285714 (44/280)
+Valid predictions: 0.21428571428571427 (60/280)
+Test
+Optimal predictions: 0.18571428571428572 (52/280)
+Valid predictions: 0.22857142857142856 (64/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 94us/step
+[0.10199460653322083, 0.08928571449858802, 0.8552520888192313, 0.10199460653322083, 0.35869567777429306]
+==================================
+
+adam linear d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl3
+8 Training took 135.25789666175842
+Optimal predictions: 0.20714285714285716 (290/1400)
+Valid predictions: 0.2507142857142857 (351/1400)
+Validation
+Optimal predictions: 0.17142857142857143 (48/280)
+Valid predictions: 0.25 (70/280)
+Test
+Optimal predictions: 0.2 (56/280)
+Valid predictions: 0.24285714285714285 (68/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 97us/step
+[0.10240006500056811, 0.08214285714285714, 0.8561974883079528, 0.10240006500056811, 0.35475518362862724]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+9 Training took 971.3767507076263
+Optimal predictions: 0.20942857142857144 (2932/14000)
+Valid predictions: 0.26407142857142857 (3697/14000)
+Validation
+Optimal predictions: 0.21071428571428572 (59/280)
+Valid predictions: 0.2642857142857143 (74/280)
+Test
+Optimal predictions: 0.20714285714285716 (58/280)
+Valid predictions: 0.2392857142857143 (67/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 88us/step
+[0.10010432803205081, 0.08928571428571429, 0.8544117569923401, 0.10010432803205081, 0.3537423563855035]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl2
+10 Training took 1093.1175260543823
+Optimal predictions: 0.211 (2954/14000)
+Valid predictions: 0.26257142857142857 (3676/14000)
+Validation
+Optimal predictions: 0.2 (56/280)
+Valid predictions: 0.25357142857142856 (71/280)
+Test
+Optimal predictions: 0.22142857142857142 (62/280)
+Valid predictions: 0.25357142857142856 (71/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 87us/step
+[0.0999748557806015, 0.08571428571428572, 0.855357141154153, 0.0999748557806015, 0.35971248362745556]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl3
+11 Training took 1216.1904480457306
+Optimal predictions: 0.206 (2884/14000)
+Valid predictions: 0.25442857142857145 (3562/14000)
+Validation
+Optimal predictions: 0.17857142857142858 (50/280)
+Valid predictions: 0.22857142857142856 (64/280)
+Test
+Optimal predictions: 0.21428571428571427 (60/280)
+Valid predictions: 0.24642857142857144 (69/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 86us/step
+[0.1004396803677082, 0.075, 0.8584033608436584, 0.1004396803677082, 0.3591992646455765]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl1
+12 Training took 979.0461895465851
+Optimal predictions: 0.19792857142857143 (2771/14000)
+Valid predictions: 0.24307142857142858 (3403/14000)
+Validation
+Optimal predictions: 0.18928571428571428 (53/280)
+Valid predictions: 0.2357142857142857 (66/280)
+Test
+Optimal predictions: 0.18928571428571428 (53/280)
+Valid predictions: 0.21071428571428572 (59/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 86us/step
+[0.10017424364175115, 0.07142857142857142, 0.8591386505535671, 0.10017424364175115, 0.3574834717171533]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl2
+13 Training took 1103.6471719741821
+Optimal predictions: 0.20292857142857143 (2841/14000)
+Valid predictions: 0.25042857142857144 (3506/14000)
+Validation
+Optimal predictions: 0.20357142857142857 (57/280)
+Valid predictions: 0.25 (70/280)
+Test
+Optimal predictions: 0.22142857142857142 (62/280)
+Valid predictions: 0.25 (70/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 92us/step
+[0.1000966489315033, 0.08571428582072257, 0.8598739487784249, 0.1000966489315033, 0.35326570400169915]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl3
+14 Training took 1226.678633928299
+Optimal predictions: 0.20135714285714285 (2819/14000)
+Valid predictions: 0.25014285714285717 (3502/14000)
+Validation
+Optimal predictions: 0.20714285714285716 (58/280)
+Valid predictions: 0.26071428571428573 (73/280)
+Test
+Optimal predictions: 0.20357142857142857 (57/280)
+Valid predictions: 0.22857142857142856 (64/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 106us/step
+[0.10026919043489865, 0.075, 0.8593487245695931, 0.10026919043489865, 0.3566320487431118]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl1
+15 Training took 986.369467496872
+Optimal predictions: 0.21 (2940/14000)
+Valid predictions: 0.25871428571428573 (3622/14000)
+Validation
+Optimal predictions: 0.2 (56/280)
+Valid predictions: 0.24642857142857144 (69/280)
+Test
+Optimal predictions: 0.22142857142857142 (62/280)
+Valid predictions: 0.25 (70/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 97us/step
+[0.10039713127272469, 0.09642857142857143, 0.8605041895593916, 0.10039713127272469, 0.36067912195410046]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl2
+16 Training took 1109.2825362682343
+Optimal predictions: 0.2062857142857143 (2888/14000)
+Valid predictions: 0.2556428571428571 (3579/14000)
+Validation
+Optimal predictions: 0.2 (56/280)
+Valid predictions: 0.24642857142857144 (69/280)
+Test
+Optimal predictions: 0.21071428571428572 (59/280)
+Valid predictions: 0.2357142857142857 (66/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 91us/step
+[0.10041349498288972, 0.08928571428571429, 0.8578781417437962, 0.10041349498288972, 0.35826681809765953]
+==================================
+
+adam linear d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl3
+17 Training took 1231.9774129390717
+Optimal predictions: 0.1967142857142857 (2754/14000)
+Valid predictions: 0.24285714285714285 (3400/14000)
+Validation
+Optimal predictions: 0.18571428571428572 (52/280)
+Valid predictions: 0.22857142857142856 (64/280)
+Test
+Optimal predictions: 0.19285714285714287 (54/280)
+Valid predictions: 0.23214285714285715 (65/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 107us/step
+[0.10052252752440316, 0.06785714285714285, 0.8579831787518093, 0.10052252752440316, 0.36400860207421437]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+18 Training took 115.01360249519348
+Optimal predictions: 0.0 (0/1400)
+Valid predictions: 0.0 (0/1400)
+Validation
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+Test
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 88us/step
+[0.1995475390127727, 0.0, 0.7845588343484061, 0.1995475390127727, 2.5465213775634767]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl2
+19 Training took 129.27113938331604
+Optimal predictions: 0.2735714285714286 (383/1400)
+Valid predictions: 0.2735714285714286 (383/1400)
+Validation
+Optimal predictions: 0.125 (35/280)
+Valid predictions: 0.16428571428571428 (46/280)
+Test
+Optimal predictions: 0.125 (35/280)
+Valid predictions: 0.15714285714285714 (44/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 106us/step
+[0.12283559526715959, 0.12857142899717602, 0.8581932766096932, 0.12283559526715959, 1.2383040939058576]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl3
+20 Training took 142.83573031425476
+Optimal predictions: 0.06928571428571428 (97/1400)
+Valid predictions: 0.06928571428571428 (97/1400)
+Validation
+Optimal predictions: 0.04285714285714286 (12/280)
+Valid predictions: 0.06785714285714285 (19/280)
+Test
+Optimal predictions: 0.025 (7/280)
+Valid predictions: 0.03571428571428571 (10/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 90us/step
+[0.12898141039269312, 0.07500000010643687, 0.8551470671381269, 0.12898141039269312, 1.4181049755641393]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl1
+21 Training took 116.87207198143005
+Optimal predictions: 0.22357142857142856 (313/1400)
+Valid predictions: 0.22357142857142856 (313/1400)
+Validation
+Optimal predictions: 0.08571428571428572 (24/280)
+Valid predictions: 0.12142857142857143 (34/280)
+Test
+Optimal predictions: 0.060714285714285714 (17/280)
+Valid predictions: 0.07857142857142857 (22/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 106us/step
+[0.10676634024296489, 0.08928571471146175, 0.8715336067335946, 0.10676634024296489, 0.802978525842939]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl2
+22 Training took 131.20199704170227
+Optimal predictions: 0.0 (0/1400)
+Valid predictions: 0.0 (0/1400)
+Validation
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+Test
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 94us/step
+[0.14308557616812842, 0.1, 0.8421218463352749, 0.14308557616812842, 1.5391911813191006]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl3
+23 Training took 144.87921500205994
+Optimal predictions: 0.48857142857142855 (684/1400)
+Valid predictions: 0.48857142857142855 (684/1400)
+Validation
+Optimal predictions: 0.21071428571428572 (59/280)
+Valid predictions: 0.325 (91/280)
+Test
+Optimal predictions: 0.23214285714285715 (65/280)
+Valid predictions: 0.3357142857142857 (94/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 97us/step
+[0.11714400989668709, 0.08571428582072257, 0.8685924240521022, 0.11714400989668709, 1.1839981368609838]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl1
+24 Training took 118.27945137023926
+Optimal predictions: 0.0 (0/1400)
+Valid predictions: 0.0 (0/1400)
+Validation
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+Test
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 82us/step
+[0.1576535599572318, 0.09642857142857143, 0.8297268816402981, 0.1576535599572318, 1.8082669564655849]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl2
+25 Training took 131.94167971611023
+Optimal predictions: 0.07142857142857142 (100/1400)
+Valid predictions: 0.07142857142857142 (100/1400)
+Validation
+Optimal predictions: 0.025 (7/280)
+Valid predictions: 0.02857142857142857 (8/280)
+Test
+Optimal predictions: 0.02857142857142857 (8/280)
+Valid predictions: 0.03571428571428571 (10/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 102us/step
+[0.15652564976896557, 0.15, 0.8315125925200326, 0.15652564976896557, 1.9216129166739329]
+==================================
+
+adam sigmoid d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl3
+26 Training took 146.93218421936035
+Optimal predictions: 0.27785714285714286 (389/1400)
+Valid predictions: 0.27785714285714286 (389/1400)
+Validation
+Optimal predictions: 0.09285714285714286 (26/280)
+Valid predictions: 0.16071428571428573 (45/280)
+Test
+Optimal predictions: 0.11071428571428571 (31/280)
+Valid predictions: 0.17857142857142858 (50/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 101us/step
+[0.12733544281550815, 0.1, 0.8563025150980268, 0.12733544281550815, 1.277994738306318]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+27 Training took 1018.4002175331116
+Optimal predictions: 0.0 (0/14000)
+Valid predictions: 0.0 (0/14000)
+Validation
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+Test
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 112us/step
+[0.07493473759719303, 0.09642857142857143, 0.9200629898480006, 0.07493473759719303, 0.7448473811149597]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl2
+28 Training took 1150.0180690288544
+Optimal predictions: 0.19857142857142857 (2780/14000)
+Valid predictions: 0.2 (2800/14000)
+Validation
+Optimal predictions: 0.15 (42/280)
+Valid predictions: 0.17142857142857143 (48/280)
+Test
+Optimal predictions: 0.14285714285714285 (40/280)
+Valid predictions: 0.15 (42/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 102us/step
+[0.07572691280926977, 0.12500000042574747, 0.9189075469970703, 0.07572691280926977, 0.8843559690884182]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl3
+29 Training took 1282.142394542694
+Optimal predictions: 0.21007142857142858 (2941/14000)
+Valid predictions: 0.21021428571428571 (2943/14000)
+Validation
+Optimal predictions: 0.12142857142857143 (34/280)
+Valid predictions: 0.16785714285714284 (47/280)
+Test
+Optimal predictions: 0.13214285714285715 (37/280)
+Valid predictions: 0.16428571428571428 (46/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 73us/step
+[0.07630749004227774, 0.11071428571428571, 0.9171218395233154, 0.07630749004227774, 1.0023242371422905]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl1
+30 Training took 1028.0785686969757
+Optimal predictions: 0.13085714285714287 (1832/14000)
+Valid predictions: 0.13585714285714287 (1902/14000)
+Validation
+Optimal predictions: 0.12142857142857143 (34/280)
+Valid predictions: 0.13214285714285715 (37/280)
+Test
+Optimal predictions: 0.1357142857142857 (38/280)
+Valid predictions: 0.15 (42/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 98us/step
+[0.08639593145677021, 0.07142857142857142, 0.9053571428571429, 0.08639593145677021, 0.9364820395197188]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl2
+31 Training took 1157.3554558753967
+Optimal predictions: 0.0 (0/14000)
+Valid predictions: 0.0 (0/14000)
+Validation
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+Test
+Optimal predictions: 0.0 (0/280)
+Valid predictions: 0.0 (0/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 78us/step
+[0.11848314191613879, 0.04642857142857143, 0.8735294018472944, 0.11848314191613879, 1.5736085346766882]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl3
+32 Training took 1293.2339413166046
+Optimal predictions: 0.14235714285714285 (1993/14000)
+Valid predictions: 0.14235714285714285 (1993/14000)
+Validation
+Optimal predictions: 0.07857142857142857 (22/280)
+Valid predictions: 0.11428571428571428 (32/280)
+Test
+Optimal predictions: 0.08571428571428572 (24/280)
+Valid predictions: 0.10357142857142858 (29/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 87us/step
+[0.07441589970673834, 0.014285714285714285, 0.9193277086530413, 0.07441589970673834, 0.9496385506221227]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl1
+33 Training took 1031.6739223003387
+Optimal predictions: 0.2055 (2877/14000)
+Valid predictions: 0.20714285714285716 (2900/14000)
+Validation
+Optimal predictions: 0.11071428571428571 (31/280)
+Valid predictions: 0.1392857142857143 (39/280)
+Test
+Optimal predictions: 0.1392857142857143 (39/280)
+Valid predictions: 0.16071428571428573 (45/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 84us/step
+[0.08021720647811889, 0.13214285714285715, 0.9178571309362139, 0.08021720647811889, 0.7643041815076556]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl2
+34 Training took 1166.5589034557343
+Optimal predictions: 0.2849285714285714 (3989/14000)
+Valid predictions: 0.2849285714285714 (3989/14000)
+Validation
+Optimal predictions: 0.16071428571428573 (45/280)
+Valid predictions: 0.18571428571428572 (52/280)
+Test
+Optimal predictions: 0.17857142857142858 (50/280)
+Valid predictions: 0.21785714285714286 (61/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 96us/step
+[0.08509235062769481, 0.08214285714285714, 0.9101890563964844, 0.08509235062769481, 0.9900517191205706]
+==================================
+
+adam sigmoid d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl3
+35 Training took 1298.3625617027283
+Optimal predictions: 0.49742857142857144 (6964/14000)
+Valid predictions: 0.49764285714285716 (6967/14000)
+Validation
+Optimal predictions: 0.3392857142857143 (95/280)
+Valid predictions: 0.43214285714285716 (121/280)
+Test
+Optimal predictions: 0.37142857142857144 (104/280)
+Valid predictions: 0.4357142857142857 (122/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 97us/step
+[0.062001003537859235, 0.175, 0.9327730842999049, 0.062001003537859235, 0.66203202520098]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+36 Training took 123.2284505367279
+Optimal predictions: 0.7885714285714286 (1104/1400)
+Valid predictions: 0.7921428571428571 (1109/1400)
+Validation
+Optimal predictions: 0.3392857142857143 (95/280)
+Valid predictions: 0.4035714285714286 (113/280)
+Test
+Optimal predictions: 0.37857142857142856 (106/280)
+Valid predictions: 0.44285714285714284 (124/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 94us/step
+[0.10119464173913002, 0.07857142857142857, 0.8746848804610116, 0.10119464173913002, 0.5536690035036632]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl2
+37 Training took 136.96735382080078
+Optimal predictions: 0.9971428571428571 (1396/1400)
+Valid predictions: 0.9971428571428571 (1396/1400)
+Validation
+Optimal predictions: 0.3142857142857143 (88/280)
+Valid predictions: 0.4607142857142857 (129/280)
+Test
+Optimal predictions: 0.325 (91/280)
+Valid predictions: 0.4357142857142857 (122/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 96us/step
+[0.12763400248118809, 0.08571428592715945, 0.8509453841618129, 0.12763400248118809, 0.9180241037692343]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl3
+38 Training took 151.06633853912354
+Optimal predictions: 1.0 (1400/1400)
+Valid predictions: 1.0 (1400/1400)
+Validation
+Optimal predictions: 0.5178571428571429 (145/280)
+Valid predictions: 0.7214285714285714 (202/280)
+Test
+Optimal predictions: 0.5107142857142857 (143/280)
+Valid predictions: 0.7178571428571429 (201/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 102us/step
+[0.09411639901144164, 0.09642857142857143, 0.8841386675834656, 0.09411639901144164, 0.7157804533839226]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl1
+39 Training took 124.92425847053528
+Optimal predictions: 0.37785714285714284 (529/1400)
+Valid predictions: 0.37785714285714284 (529/1400)
+Validation
+Optimal predictions: 0.10714285714285714 (30/280)
+Valid predictions: 0.11428571428571428 (32/280)
+Test
+Optimal predictions: 0.08928571428571429 (25/280)
+Valid predictions: 0.125 (35/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 94us/step
+[0.1102891172681536, 0.13928571471146176, 0.8655461992536272, 0.1102891172681536, 0.7300781062671117]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl2
+40 Training took 139.3609025478363
+Optimal predictions: 0.9957142857142857 (1394/1400)
+Valid predictions: 0.9957142857142857 (1394/1400)
+Validation
+Optimal predictions: 0.22142857142857142 (62/280)
+Valid predictions: 0.2785714285714286 (78/280)
+Test
+Optimal predictions: 0.19285714285714287 (54/280)
+Valid predictions: 0.25357142857142856 (71/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 99us/step
+[0.13551128304430415, 0.1357142857142857, 0.8345588292394366, 0.13551128304430415, 0.9034945845603943]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl3
+41 Training took 153.46117782592773
+Optimal predictions: 0.9992857142857143 (1399/1400)
+Valid predictions: 0.9992857142857143 (1399/1400)
+Validation
+Optimal predictions: 0.48928571428571427 (137/280)
+Valid predictions: 0.6928571428571428 (194/280)
+Test
+Optimal predictions: 0.49642857142857144 (139/280)
+Valid predictions: 0.6285714285714286 (176/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 104us/step
+[0.08710574292178665, 0.11428571439215116, 0.8816176465579442, 0.08710574292178665, 0.5363971024751664]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl1
+42 Training took 126.33835697174072
+Optimal predictions: 0.6271428571428571 (878/1400)
+Valid predictions: 0.6271428571428571 (878/1400)
+Validation
+Optimal predictions: 0.16785714285714284 (47/280)
+Valid predictions: 0.2392857142857143 (67/280)
+Test
+Optimal predictions: 0.21785714285714286 (61/280)
+Valid predictions: 0.24285714285714285 (68/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 94us/step
+[0.10743709121431623, 0.07142857142857142, 0.8725840381213597, 0.10743709121431623, 0.675141087600163]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl2
+43 Training took 140.9843294620514
+Optimal predictions: 0.9957142857142857 (1394/1400)
+Valid predictions: 0.9957142857142857 (1394/1400)
+Validation
+Optimal predictions: 0.2714285714285714 (76/280)
+Valid predictions: 0.36428571428571427 (102/280)
+Test
+Optimal predictions: 0.2714285714285714 (76/280)
+Valid predictions: 0.33214285714285713 (93/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 105us/step
+[0.12584463943328175, 0.10357142899717603, 0.8454831923757281, 0.12584463943328175, 0.8312640019825527]
+==================================
+
+adam tanh d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl3
+44 Training took 154.7772831916809
+Optimal predictions: 1.0 (1400/1400)
+Valid predictions: 1.0 (1400/1400)
+Validation
+Optimal predictions: 0.4714285714285714 (132/280)
+Valid predictions: 0.675 (189/280)
+Test
+Optimal predictions: 0.5214285714285715 (146/280)
+Valid predictions: 0.6642857142857143 (186/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 109us/step
+[0.08945775926113128, 0.11071428571428571, 0.882773118359702, 0.08945775926113128, 0.5981747434607574]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+45 Training took 1065.1327843666077
+Optimal predictions: 0.319 (4466/14000)
+Valid predictions: 0.33685714285714285 (4716/14000)
+Validation
+Optimal predictions: 0.2857142857142857 (80/280)
+Valid predictions: 0.31785714285714284 (89/280)
+Test
+Optimal predictions: 0.2892857142857143 (81/280)
+Valid predictions: 0.3142857142857143 (88/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 107us/step
+[0.06042557587581021, 0.07142857185431889, 0.9318277205739702, 0.06042557587581021, 0.47371925243309565]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl2
+46 Training took 1194.2574529647827
+Optimal predictions: 0.9770714285714286 (13679/14000)
+Valid predictions: 0.9859285714285714 (13803/14000)
+Validation
+Optimal predictions: 0.7964285714285714 (223/280)
+Valid predictions: 0.9071428571428571 (254/280)
+Test
+Optimal predictions: 0.7928571428571428 (222/280)
+Valid predictions: 0.9035714285714286 (253/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 109us/step
+[0.04410616130501564, 0.2071428554398673, 0.9476890768323626, 0.04410616130501564, 0.3149630175371255]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl3
+47 Training took 1330.2388348579407
+Optimal predictions: 0.9835714285714285 (13770/14000)
+Valid predictions: 0.9887857142857143 (13843/14000)
+Validation
+Optimal predictions: 0.7428571428571429 (208/280)
+Valid predictions: 0.9571428571428572 (268/280)
+Test
+Optimal predictions: 0.7607142857142857 (213/280)
+Valid predictions: 0.9285714285714286 (260/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 120us/step
+[0.06276689151834164, 0.18928571471146174, 0.9317226801599775, 0.06276689151834164, 0.6648717886635236]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl1
+48 Training took 1070.7013416290283
+Optimal predictions: 0.4617142857142857 (6464/14000)
+Valid predictions: 0.4792142857142857 (6709/14000)
+Validation
+Optimal predictions: 0.4107142857142857 (115/280)
+Valid predictions: 0.45357142857142857 (127/280)
+Test
+Optimal predictions: 0.4 (112/280)
+Valid predictions: 0.42142857142857143 (118/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 116us/step
+[0.05259695013186761, 0.1, 0.9367646983691624, 0.05259695013186761, 0.3281036250293255]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl2
+49 Training took 1202.2969601154327
+Optimal predictions: 0.9882857142857143 (13836/14000)
+Valid predictions: 0.9895 (13853/14000)
+Validation
+Optimal predictions: 0.6928571428571428 (194/280)
+Valid predictions: 0.8357142857142857 (234/280)
+Test
+Optimal predictions: 0.6857142857142857 (192/280)
+Valid predictions: 0.8357142857142857 (234/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 95us/step
+[0.06486744585313968, 0.08928571439215115, 0.9180672253881182, 0.06486744585313968, 0.47829241710049764]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu140 hl3
+50 Training took 1341.5773386955261
+Optimal predictions: 0.991 (13874/14000)
+Valid predictions: 0.992 (13888/14000)
+Validation
+Optimal predictions: 0.7214285714285714 (202/280)
+Valid predictions: 0.9 (252/280)
+Test
+Optimal predictions: 0.7428571428571429 (208/280)
+Valid predictions: 0.8678571428571429 (243/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 109us/step
+[0.05911543847094955, 0.11428571428571428, 0.9302521092551095, 0.05911543847094955, 0.5614280612474042]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl1
+51 Training took 1076.9845485687256
+Optimal predictions: 0.7236428571428571 (10131/14000)
+Valid predictions: 0.761 (10654/14000)
+Validation
+Optimal predictions: 0.6535714285714286 (183/280)
+Valid predictions: 0.7107142857142857 (199/280)
+Test
+Optimal predictions: 0.7 (196/280)
+Valid predictions: 0.7607142857142857 (213/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 111us/step
+[0.04288773402305586, 0.09642857142857143, 0.9465336118425641, 0.04288773402305586, 0.15458938500710895]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl2
+52 Training took 1211.8929901123047
+Optimal predictions: 0.9940714285714286 (13917/14000)
+Valid predictions: 0.9950714285714286 (13931/14000)
+Validation
+Optimal predictions: 0.7107142857142857 (199/280)
+Valid predictions: 0.8285714285714286 (232/280)
+Test
+Optimal predictions: 0.7285714285714285 (204/280)
+Valid predictions: 0.8535714285714285 (239/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 104us/step
+[0.053286264876702, 0.16428571513720922, 0.9335083910397121, 0.053286264876702, 0.3291181722921985]
+==================================
+
+adam tanh d14000 l<function mean_squared_error at 0x7f2130abe268> hu210 hl3
+53 Training took 1348.3867392539978
+Optimal predictions: 0.9886428571428572 (13841/14000)
+Valid predictions: 0.9910714285714286 (13875/14000)
+Validation
+Optimal predictions: 0.6857142857142857 (192/280)
+Valid predictions: 0.8607142857142858 (241/280)
+Test
+Optimal predictions: 0.7071428571428572 (198/280)
+Valid predictions: 0.8928571428571429 (250/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 107us/step
+[0.07601822604026114, 0.1714285705770765, 0.908823539529528, 0.07601822604026114, 0.7489058285951614]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+54 Training took 131.61576676368713
+Optimal predictions: 0.8121428571428572 (1137/1400)
+Valid predictions: 0.8128571428571428 (1138/1400)
+Validation
+Optimal predictions: 0.2892857142857143 (81/280)
+Valid predictions: 0.37857142857142856 (106/280)
+Test
+Optimal predictions: 0.25 (70/280)
+Valid predictions: 0.3142857142857143 (88/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 99us/step
+[0.12667147825871194, 0.09642857164144517, 0.8490546107292175, 0.12667147825871194, 0.7049170106649398]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl2
+55 Training took 145.47520971298218
+Optimal predictions: 0.5707142857142857 (799/1400)
+Valid predictions: 0.5707142857142857 (799/1400)
+Validation
+Optimal predictions: 0.2785714285714286 (78/280)
+Valid predictions: 0.37857142857142856 (106/280)
+Test
+Optimal predictions: 0.31785714285714284 (89/280)
+Valid predictions: 0.37142857142857144 (104/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 105us/step
+[0.11181112565100193, 0.01071428582072258, 0.8713235242026193, 0.11181112565100193, 1.0147001349500246]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu70 hl3
+56 Training took 160.09854078292847
+Optimal predictions: 1.0 (1400/1400)
+Valid predictions: 1.0 (1400/1400)
+Validation
+Optimal predictions: 0.5 (140/280)
+Valid predictions: 0.7785714285714286 (218/280)
+Test
+Optimal predictions: 0.5107142857142857 (143/280)
+Valid predictions: 0.7642857142857142 (214/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 123us/step
+[0.1100321211452995, 0.1, 0.8676470620291573, 0.1100321211452995, 0.9612257140023368]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl1
+57 Training took 133.80167317390442
+Optimal predictions: 0.7035714285714286 (985/1400)
+Valid predictions: 0.7035714285714286 (985/1400)
+Validation
+Optimal predictions: 0.12857142857142856 (36/280)
+Valid predictions: 0.16071428571428573 (45/280)
+Test
+Optimal predictions: 0.1392857142857143 (39/280)
+Valid predictions: 0.16785714285714284 (47/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 96us/step
+[0.1457021304539272, 0.1392857142857143, 0.820273118359702, 0.1457021304539272, 0.989858387197767]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl2
+58 Training took 147.18738269805908
+Optimal predictions: 1.0 (1400/1400)
+Valid predictions: 1.0 (1400/1400)
+Validation
+Optimal predictions: 0.44285714285714284 (124/280)
+Valid predictions: 0.6035714285714285 (169/280)
+Test
+Optimal predictions: 0.45 (126/280)
+Valid predictions: 0.5714285714285714 (160/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 95us/step
+[0.09303172486168998, 0.11785714307001659, 0.8779411741665432, 0.09303172486168998, 0.5786543837615422]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu140 hl3
+59 Training took 161.69747042655945
+Optimal predictions: 1.0 (1400/1400)
+Valid predictions: 1.0 (1400/1400)
+Validation
+Optimal predictions: 0.5535714285714286 (155/280)
+Valid predictions: 0.8142857142857143 (228/280)
+Test
+Optimal predictions: 0.5214285714285715 (146/280)
+Valid predictions: 0.7642857142857142 (214/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 108us/step
+[0.09526554032095841, 0.060714285714285714, 0.8777310831206185, 0.09526554032095841, 0.6714642588581358]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl1
+60 Training took 134.59715580940247
+Optimal predictions: 0.9971428571428571 (1396/1400)
+Valid predictions: 0.9971428571428571 (1396/1400)
+Validation
+Optimal predictions: 0.1392857142857143 (39/280)
+Valid predictions: 0.18928571428571428 (53/280)
+Test
+Optimal predictions: 0.17857142857142858 (50/280)
+Valid predictions: 0.19285714285714287 (54/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 117us/step
+[0.12874374027763094, 0.09642857142857143, 0.8447478975568499, 0.12874374027763094, 0.7566777412380491]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl2
+61 Training took 148.41915106773376
+Optimal predictions: 0.6428571428571429 (900/1400)
+Valid predictions: 0.6428571428571429 (900/1400)
+Validation
+Optimal predictions: 0.32857142857142857 (92/280)
+Valid predictions: 0.475 (133/280)
+Test
+Optimal predictions: 0.3821428571428571 (107/280)
+Valid predictions: 0.4785714285714286 (134/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 111us/step
+[0.08908667210489511, 0.04285714285714286, 0.8819327712059021, 0.08908667210489511, 0.6202877112797328]
+==================================
+
+adam relu d1400 l<function mean_squared_error at 0x7f2130abe268> hu210 hl3
+62 Training took 163.5059003829956
+Optimal predictions: 0.7142857142857143 (1000/1400)
+Valid predictions: 0.7142857142857143 (1000/1400)
+Validation
+Optimal predictions: 0.3535714285714286 (99/280)
+Valid predictions: 0.5857142857142857 (164/280)
+Test
+Optimal predictions: 0.36428571428571427 (102/280)
+Valid predictions: 0.5392857142857143 (151/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 116us/step
+[0.09777969771197864, 0.06071428582072258, 0.88025210414614, 0.09777969771197864, 0.8061215264456613]
+==================================
+
+adam relu d14000 l<function mean_squared_error at 0x7f2130abe268> hu70 hl1
+63 Training took 1114.8382229804993
+Optimal predictions: 0.7148571428571429 (10008/14000)
+Valid predictions: 0.7420714285714286 (10389/14000)
+Validation
+Optimal predictions: 0.6428571428571429 (180/280)
+Valid predictions: 0.6785714285714286 (190/280)
+Test
+Optimal predictions: 0.6607142857142857 (185/280)
+Valid predictions: 0.7071428571428572 (198/280)
+['loss', 'acc', 'binary_accuracy', 'mean_squared_error', 'binary_crossentropy']
+280/280 [==============================] - 0s 112us/step
+[0.0445943863264152, 0.075, 0.9485293984413147, 0.0445943863264152, 0.18145205463681902]
+==================================
