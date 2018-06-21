@@ -13,19 +13,18 @@ class MLPModel:
     self.model = Sequential()
 
     self.model.add(Dense(hidden_units, input_dim=34))
-    self.model.add(Activation(activation))
+    self.model.add(LeakyReLU(alpha=0.1))
 
     for i in range(hidden_layers-1):
       self.model.add(Dense(hidden_units))
-      self.model.add(Activation(activation))
-      # self.model.add(Dropout(0.5))
+      self.model.add(LeakyReLU(alpha=0.1))
 
     self.model.add(Dense(34))
     self.model.add(Activation('linear'))
 
     self.model.compile(optimizer=optimizer,
               loss=loss,  metrics=['accuracy', 'binary_accuracy', 'mse', 'binary_crossentropy'])
-    self.name = name + 'ex3 adam hu{} hl{} {}'.format(hidden_units, hidden_layers, activation)
+    self.name = name + 'ex5 Nadam hu{} hl{} {}'.format(hidden_units, hidden_layers, 'leaky relu')
     self.tensorboard = TensorBoard(log_dir='logs/' + self.name)
 
   def fit(self, train_input, train_labels, validation, epochs=1000, bs=64):
